@@ -2,7 +2,7 @@
 
 ## 🚗 Project Overview
 
-A 5 part series developed for each end of course project for Google Advanced Data Analytics, This multi-notebook project is focused on predicting and understanding monthly user churn in the Waze app. Churn is defined as users who have uninstalled or stopped using Waze. Using a full analytics workflow—from data inspection through machine learning—the project aims to equip Waze with actionable insights and a predictive model to reduce churn and retain more users.
+A 5 part series developed during each end of course project for Google Advanced Data Analytics, This multi-notebook project is focused on predicting and understanding monthly user churn in the Waze app. Churn is defined as users who have uninstalled or stopped using Waze. Using a full analytics workflow—from data inspection through machine learning—the project aims to equip Waze with actionable insights and a predictive model to reduce churn and retain more users.
 
 ## 📋 Table of Contents
 
