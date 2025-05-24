@@ -6,12 +6,12 @@ A 5 part series developed for each end of course project for Google Advanced Dat
 
 ## 📋 Table of Contents
 
-* [Business Problem](#business-problem)
-* [Data Description](#data-description)
-* [Notebook Summaries](#notebook-summaries)
-* [Key Results](#key-results)
-* [Insights & Recommendations](#insights--recommendations)
-* [References](#references)
+* [Business Problem](#-business-problem)
+* [Data Description](#-data-description)
+* [Notebook Summaries](#-notebook-summaries)
+* [Key Results](#-key-results)
+* [Insights & Recommendations](#-insights--recommendations)
+* [References](#-references)
 
 ## 💼 Business Problem
 
